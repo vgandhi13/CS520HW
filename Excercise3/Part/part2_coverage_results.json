@@ -1,0 +1,24 @@
+{
+  "problem_6_Llama_cot": {
+    "problem_num": "6",
+    "variant_id": "Llama_cot",
+    "entry_point": "parse_nested_parens",
+    "line_coverage": 100.0,
+    "branch_coverage": 100.0,
+    "tests_passed": 7,
+    "tests_failed": 0,
+    "tests_total": 7,
+    "passed": true
+  },
+  "problem_7_Llama_cot": {
+    "problem_num": "7",
+    "variant_id": "Llama_cot",
+    "entry_point": "filter_by_substring",
+    "line_coverage": 100.0,
+    "branch_coverage": 100.0,
+    "tests_passed": 7,
+    "tests_failed": 0,
+    "tests_total": 7,
+    "passed": true
+  }
+}
